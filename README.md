@@ -1,11 +1,11 @@
 # Student Habits and Academic Performance
 
 
-## 📌 Project Overview
+##  Project Overview
 This project applies **statistical and machine learning techniques** to analyze how student habits, lifestyle choices, and demographic factors influence academic performance.  
 The focus is not only on prediction accuracy, but also on **interpretability and insight generation** for education-related decision-making.
 
-## 🎯 Objectives
+##  Objectives
 - Predict student exam performance using behavioral and demographic variables  
 - Explore relationships between study habits and academic outcomes  
 - Compare regression-based models  
@@ -20,7 +20,7 @@ The dataset consists of student-level observations including:
 
 The target variable is **continuous**, making the problem suitable for regression analysis.
 
-## 🧠 Methodology
+##  Methodology
 
 ### 1. Data Preparation
 - Missing value checks and handling  
